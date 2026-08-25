@@ -1,0 +1,13 @@
+:root{
+--size-display:48px;--size-h1:40px;--size-h2:32px;--size-h3:24px;--size-h4:20px;
+--size-body:16px;--size-body-sm:14px;--size-caption:12px;
+--size-contact:18px;--size-price:28px;
+
+--weight-regular:400;--weight-medium:500;--weight-semibold:600;--weight-bold:700;--weight-black:800;
+
+--lh-tight:1.1; /* @kind font */
+--lh-heading:1.2; /* @kind font */
+--lh-body:1.6; /* @kind font */
+
+--tracking-display:.01em;--tracking-eyebrow:.22em;--tracking-label:.12em;--tracking-body:0;
+}
